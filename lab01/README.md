@@ -1,5 +1,3 @@
-![Average sentiment by product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/5c5f482f-5bb9-468f-8079-275292105bc2)
-![Number of reviews per product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/97cc5bc1-b36f-4dc1-8ae2-17b04ae99427)
 # Register and visualize dataset
 
 In this assignment you will register and visualize the dataset.
