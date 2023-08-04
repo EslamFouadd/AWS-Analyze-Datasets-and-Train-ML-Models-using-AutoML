@@ -1,5 +1,5 @@
 ![Average sentiment by product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/5c5f482f-5bb9-468f-8079-275292105bc2)
-![Uploading Number of reviews per product category.png…]()
+![Number of reviews per product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/97cc5bc1-b36f-4dc1-8ae2-17b04ae99427)
 # Register and visualize dataset
 
 In this assignment you will register and visualize the dataset.
@@ -19,5 +19,8 @@ In this assignment you will register and visualize the dataset.
 7. Produce and select different plots and visualizations that address your questions
 
 # Output
-![Distribution of reviews per sentiment per category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/38084d0f-c5e9-41c3-a749-5b371575dc0e)
-![Uploading Word Number Distribution.png…]()
+![Average sentiment by product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/8f0c471e-6df5-4030-a12f-08304dd10f18)
+
+![Distribution of reviews per sentiment per category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/52caaaea-d5e4-4354-aa29-06d220dfaa93)
+
+![Word Number Distribution](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/a6e09984-0045-4a26-9bfa-659b19be94bb)
