@@ -1,3 +1,5 @@
+![Average sentiment by product category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/5c5f482f-5bb9-468f-8079-275292105bc2)
+![Uploading Number of reviews per product category.png…]()
 # Register and visualize dataset
 
 In this assignment you will register and visualize the dataset.
@@ -15,3 +17,7 @@ In this assignment you will register and visualize the dataset.
 6. Return the query results in a pandas dataframe
 
 7. Produce and select different plots and visualizations that address your questions
+
+# Output
+![Distribution of reviews per sentiment per category](https://github.com/EslamFouadd/AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML/assets/77150715/38084d0f-c5e9-41c3-a749-5b371575dc0e)
+![Uploading Word Number Distribution.png…]()
